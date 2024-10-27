@@ -149,8 +149,7 @@ while(player):
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/731ddb10-a973-449d-b04d-8207fd2eec34)
-
+![image](https://github.com/user-attachments/assets/767399c6-3975-45b1-bf62-7ff7cfa338ff)
 
 
 ## Result: 
